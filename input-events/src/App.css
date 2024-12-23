@@ -1,0 +1,41 @@
+.App {
+  text-align: center;
+}
+
+form{
+  background-color: #DEE5D4;
+  color: blue;
+  display: inline-block;
+  text-align: justify;
+  margin: 10px;
+}
+
+form div{
+  margin: 15px;
+}
+
+form label{
+  display: inline-block;
+  width: 150px;
+}
+
+.innerLabel{
+  width: 400px;
+  text-align: center;
+  color: red;
+}
+
+.innerButton{
+  text-align: center;
+  
+}
+
+span{
+  display: inline-block;
+  width: 75px;
+}
+
+h1{
+  text-align: center;
+  color: #A02334;
+}
